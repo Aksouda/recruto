@@ -1,0 +1,2842 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___en",
+    "path": "/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ar",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "articles___en",
+    "path": "/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___en",
+    "path": "/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___en",
+    "path": "/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___en",
+    "path": "/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___en",
+    "path": "/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "index___da",
+    "path": "/da",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/da",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/de",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___es",
+    "path": "/es",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/es",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "extraversion___en",
+    "path": "/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___en",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "index___fi",
+    "path": "/fi",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/fi",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/fr",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___hi",
+    "path": "/hi",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/hi",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/id",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___is",
+    "path": "/is",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/is",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___it",
+    "path": "/it",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/it",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___ja",
+    "path": "/ja",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ja",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "neuroticism___en",
+    "path": "/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "index___no",
+    "path": "/no",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/no",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "openness_to_experience___en",
+    "path": "/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "index___pl",
+    "path": "/pl",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/pl",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "privacy___en",
+    "path": "/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___en",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/pt",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "result___en",
+    "path": "/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ru",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___sv",
+    "path": "/sv",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/sv",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "test___en",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "index___th",
+    "path": "/th",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/th",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___uk",
+    "path": "/uk",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/uk",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "index___zh-Hans",
+    "path": "/zh-Hans",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/zh-Hans",
+    "_name": "_c3f128dc"
+  },
+  {
+    "name": "about___ar",
+    "path": "/ar/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/ar/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___ar",
+    "path": "/ar/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/ar/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___ar",
+    "path": "/ar/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/ar/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___ar",
+    "path": "/ar/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/ar/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___ar",
+    "path": "/ar/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/ar/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___ar",
+    "path": "/ar/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/ar/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___ar",
+    "path": "/ar/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/ar/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___ar",
+    "path": "/ar/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/ar/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___ar",
+    "path": "/ar/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/ar/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___ar",
+    "path": "/ar/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/ar/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___ar",
+    "path": "/ar/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/ar/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___ar",
+    "path": "/ar/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/ar/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___ar",
+    "path": "/ar/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/ar/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___ar",
+    "path": "/ar/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/ar/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___ar",
+    "path": "/ar/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/ar/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___da",
+    "path": "/da/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/da/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___da",
+    "path": "/da/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/da/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___da",
+    "path": "/da/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/da/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___da",
+    "path": "/da/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/da/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___da",
+    "path": "/da/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/da/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___da",
+    "path": "/da/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/da/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___da",
+    "path": "/da/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/da/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___da",
+    "path": "/da/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/da/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___da",
+    "path": "/da/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/da/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___da",
+    "path": "/da/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/da/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___da",
+    "path": "/da/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/da/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___da",
+    "path": "/da/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/da/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___da",
+    "path": "/da/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/da/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___da",
+    "path": "/da/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/da/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___da",
+    "path": "/da/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/da/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___de",
+    "path": "/de/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/de/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___de",
+    "path": "/de/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/de/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___de",
+    "path": "/de/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/de/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___de",
+    "path": "/de/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/de/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___de",
+    "path": "/de/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/de/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___de",
+    "path": "/de/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/de/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___de",
+    "path": "/de/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/de/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___de",
+    "path": "/de/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/de/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___de",
+    "path": "/de/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/de/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___de",
+    "path": "/de/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/de/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___de",
+    "path": "/de/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/de/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___de",
+    "path": "/de/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/de/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___de",
+    "path": "/de/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/de/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___de",
+    "path": "/de/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/de/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___de",
+    "path": "/de/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/de/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___es",
+    "path": "/es/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/es/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___es",
+    "path": "/es/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/es/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___es",
+    "path": "/es/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/es/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___es",
+    "path": "/es/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/es/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___es",
+    "path": "/es/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/es/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___es",
+    "path": "/es/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/es/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___es",
+    "path": "/es/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/es/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___es",
+    "path": "/es/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/es/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___es",
+    "path": "/es/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/es/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___es",
+    "path": "/es/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/es/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___es",
+    "path": "/es/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/es/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___es",
+    "path": "/es/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/es/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___es",
+    "path": "/es/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/es/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___es",
+    "path": "/es/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/es/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___es",
+    "path": "/es/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/es/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___fi",
+    "path": "/fi/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/fi/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___fi",
+    "path": "/fi/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/fi/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___fi",
+    "path": "/fi/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/fi/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___fi",
+    "path": "/fi/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/fi/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___fi",
+    "path": "/fi/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/fi/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___fi",
+    "path": "/fi/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/fi/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___fi",
+    "path": "/fi/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/fi/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___fi",
+    "path": "/fi/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/fi/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___fi",
+    "path": "/fi/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/fi/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___fi",
+    "path": "/fi/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/fi/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___fi",
+    "path": "/fi/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/fi/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___fi",
+    "path": "/fi/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/fi/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___fi",
+    "path": "/fi/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/fi/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___fi",
+    "path": "/fi/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/fi/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___fi",
+    "path": "/fi/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/fi/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___fr",
+    "path": "/fr/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/fr/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___fr",
+    "path": "/fr/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/fr/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___fr",
+    "path": "/fr/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/fr/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___fr",
+    "path": "/fr/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/fr/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___fr",
+    "path": "/fr/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/fr/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___fr",
+    "path": "/fr/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/fr/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___fr",
+    "path": "/fr/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/fr/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___fr",
+    "path": "/fr/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/fr/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___fr",
+    "path": "/fr/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/fr/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___fr",
+    "path": "/fr/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/fr/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___fr",
+    "path": "/fr/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/fr/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___fr",
+    "path": "/fr/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/fr/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___fr",
+    "path": "/fr/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/fr/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___fr",
+    "path": "/fr/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/fr/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___fr",
+    "path": "/fr/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/fr/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___hi",
+    "path": "/hi/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/hi/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___hi",
+    "path": "/hi/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/hi/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___hi",
+    "path": "/hi/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/hi/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___hi",
+    "path": "/hi/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/hi/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___hi",
+    "path": "/hi/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/hi/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___hi",
+    "path": "/hi/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/hi/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___hi",
+    "path": "/hi/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/hi/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___hi",
+    "path": "/hi/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/hi/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___hi",
+    "path": "/hi/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/hi/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___hi",
+    "path": "/hi/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/hi/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___hi",
+    "path": "/hi/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/hi/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___hi",
+    "path": "/hi/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/hi/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___hi",
+    "path": "/hi/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/hi/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___hi",
+    "path": "/hi/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/hi/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___hi",
+    "path": "/hi/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/hi/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___id",
+    "path": "/id/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/id/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___id",
+    "path": "/id/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/id/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___id",
+    "path": "/id/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/id/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___id",
+    "path": "/id/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/id/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___id",
+    "path": "/id/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/id/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___id",
+    "path": "/id/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/id/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___id",
+    "path": "/id/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/id/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___id",
+    "path": "/id/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/id/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___id",
+    "path": "/id/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/id/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___id",
+    "path": "/id/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/id/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___id",
+    "path": "/id/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/id/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___id",
+    "path": "/id/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/id/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___id",
+    "path": "/id/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/id/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___id",
+    "path": "/id/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/id/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___id",
+    "path": "/id/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/id/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___is",
+    "path": "/is/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/is/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___is",
+    "path": "/is/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/is/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___is",
+    "path": "/is/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/is/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___is",
+    "path": "/is/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/is/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___is",
+    "path": "/is/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/is/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___is",
+    "path": "/is/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/is/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___is",
+    "path": "/is/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/is/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___is",
+    "path": "/is/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/is/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___is",
+    "path": "/is/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/is/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___is",
+    "path": "/is/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/is/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___is",
+    "path": "/is/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/is/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___is",
+    "path": "/is/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/is/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___is",
+    "path": "/is/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/is/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___is",
+    "path": "/is/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/is/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___is",
+    "path": "/is/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/is/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___it",
+    "path": "/it/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/it/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___it",
+    "path": "/it/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/it/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___it",
+    "path": "/it/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/it/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___it",
+    "path": "/it/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/it/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___it",
+    "path": "/it/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/it/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___it",
+    "path": "/it/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/it/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___it",
+    "path": "/it/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/it/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___it",
+    "path": "/it/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/it/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___it",
+    "path": "/it/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/it/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___it",
+    "path": "/it/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/it/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___it",
+    "path": "/it/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/it/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___it",
+    "path": "/it/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/it/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___it",
+    "path": "/it/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/it/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___it",
+    "path": "/it/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/it/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___it",
+    "path": "/it/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/it/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___ja",
+    "path": "/ja/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/ja/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___ja",
+    "path": "/ja/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/ja/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___ja",
+    "path": "/ja/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/ja/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___ja",
+    "path": "/ja/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/ja/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___ja",
+    "path": "/ja/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/ja/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___ja",
+    "path": "/ja/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/ja/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___ja",
+    "path": "/ja/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/ja/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___ja",
+    "path": "/ja/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/ja/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___ja",
+    "path": "/ja/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/ja/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___ja",
+    "path": "/ja/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/ja/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___ja",
+    "path": "/ja/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/ja/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___ja",
+    "path": "/ja/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/ja/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___ja",
+    "path": "/ja/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/ja/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___ja",
+    "path": "/ja/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/ja/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___ja",
+    "path": "/ja/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/ja/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___no",
+    "path": "/no/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/no/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___no",
+    "path": "/no/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/no/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___no",
+    "path": "/no/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/no/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___no",
+    "path": "/no/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/no/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___no",
+    "path": "/no/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/no/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___no",
+    "path": "/no/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/no/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___no",
+    "path": "/no/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/no/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___no",
+    "path": "/no/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/no/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___no",
+    "path": "/no/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/no/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___no",
+    "path": "/no/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/no/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___no",
+    "path": "/no/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/no/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___no",
+    "path": "/no/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/no/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___no",
+    "path": "/no/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/no/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___no",
+    "path": "/no/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/no/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___no",
+    "path": "/no/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/no/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___pl",
+    "path": "/pl/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/pl/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___pl",
+    "path": "/pl/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/pl/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___pl",
+    "path": "/pl/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/pl/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___pl",
+    "path": "/pl/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/pl/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___pl",
+    "path": "/pl/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/pl/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___pl",
+    "path": "/pl/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/pl/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___pl",
+    "path": "/pl/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/pl/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___pl",
+    "path": "/pl/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/pl/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___pl",
+    "path": "/pl/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/pl/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___pl",
+    "path": "/pl/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/pl/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___pl",
+    "path": "/pl/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/pl/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___pl",
+    "path": "/pl/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/pl/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___pl",
+    "path": "/pl/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/pl/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___pl",
+    "path": "/pl/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/pl/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___pl",
+    "path": "/pl/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/pl/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___pt",
+    "path": "/pt/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/pt/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___pt",
+    "path": "/pt/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/pt/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___pt",
+    "path": "/pt/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/pt/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___pt",
+    "path": "/pt/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/pt/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___pt",
+    "path": "/pt/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/pt/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___pt",
+    "path": "/pt/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/pt/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___pt",
+    "path": "/pt/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/pt/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___pt",
+    "path": "/pt/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/pt/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___pt",
+    "path": "/pt/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/pt/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___pt",
+    "path": "/pt/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/pt/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___pt",
+    "path": "/pt/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/pt/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___pt",
+    "path": "/pt/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/pt/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___pt",
+    "path": "/pt/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/pt/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___pt",
+    "path": "/pt/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/pt/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___pt",
+    "path": "/pt/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/pt/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___ru",
+    "path": "/ru/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/ru/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___ru",
+    "path": "/ru/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/ru/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___ru",
+    "path": "/ru/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/ru/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___ru",
+    "path": "/ru/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/ru/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___ru",
+    "path": "/ru/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/ru/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___ru",
+    "path": "/ru/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/ru/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___ru",
+    "path": "/ru/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/ru/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___ru",
+    "path": "/ru/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/ru/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___ru",
+    "path": "/ru/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/ru/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___ru",
+    "path": "/ru/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/ru/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___ru",
+    "path": "/ru/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/ru/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___ru",
+    "path": "/ru/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/ru/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___ru",
+    "path": "/ru/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/ru/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___ru",
+    "path": "/ru/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/ru/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___ru",
+    "path": "/ru/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/ru/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___sv",
+    "path": "/sv/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/sv/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___sv",
+    "path": "/sv/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/sv/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___sv",
+    "path": "/sv/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/sv/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___sv",
+    "path": "/sv/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/sv/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___sv",
+    "path": "/sv/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/sv/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___sv",
+    "path": "/sv/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/sv/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___sv",
+    "path": "/sv/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/sv/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___sv",
+    "path": "/sv/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/sv/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___sv",
+    "path": "/sv/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/sv/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___sv",
+    "path": "/sv/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/sv/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___sv",
+    "path": "/sv/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/sv/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___sv",
+    "path": "/sv/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/sv/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___sv",
+    "path": "/sv/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/sv/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___sv",
+    "path": "/sv/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/sv/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___sv",
+    "path": "/sv/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/sv/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___th",
+    "path": "/th/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/th/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___th",
+    "path": "/th/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/th/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___th",
+    "path": "/th/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/th/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___th",
+    "path": "/th/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/th/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___th",
+    "path": "/th/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/th/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___th",
+    "path": "/th/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/th/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___th",
+    "path": "/th/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/th/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___th",
+    "path": "/th/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/th/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___th",
+    "path": "/th/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/th/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___th",
+    "path": "/th/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/th/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___th",
+    "path": "/th/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/th/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___th",
+    "path": "/th/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/th/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___th",
+    "path": "/th/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/th/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___th",
+    "path": "/th/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/th/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___th",
+    "path": "/th/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/th/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___uk",
+    "path": "/uk/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/uk/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___uk",
+    "path": "/uk/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/uk/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___uk",
+    "path": "/uk/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/uk/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___uk",
+    "path": "/uk/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/uk/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___uk",
+    "path": "/uk/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/uk/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___uk",
+    "path": "/uk/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/uk/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___uk",
+    "path": "/uk/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/uk/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___uk",
+    "path": "/uk/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/uk/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___uk",
+    "path": "/uk/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/uk/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___uk",
+    "path": "/uk/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/uk/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___uk",
+    "path": "/uk/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/uk/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___uk",
+    "path": "/uk/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/uk/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___uk",
+    "path": "/uk/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/uk/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___uk",
+    "path": "/uk/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/uk/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___uk",
+    "path": "/uk/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/uk/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "about___zh-Hans",
+    "path": "/zh-Hans/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/zh-Hans/about",
+    "_name": "_7e4f90cd"
+  },
+  {
+    "name": "agreeableness___zh-Hans",
+    "path": "/zh-Hans/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/zh-Hans/agreeableness",
+    "_name": "_1ac372c6"
+  },
+  {
+    "name": "articles___zh-Hans",
+    "path": "/zh-Hans/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/zh-Hans/articles",
+    "_name": "_4b7d37a6"
+  },
+  {
+    "name": "big_five___zh-Hans",
+    "path": "/zh-Hans/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/zh-Hans/big_five",
+    "_name": "_28af9a81"
+  },
+  {
+    "name": "candidate___zh-Hans",
+    "path": "/zh-Hans/candidate",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "url": "/zh-Hans/candidate",
+    "_name": "_1e25787a"
+  },
+  {
+    "name": "compare___zh-Hans",
+    "path": "/zh-Hans/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/zh-Hans/compare",
+    "_name": "_0c708686"
+  },
+  {
+    "name": "conscientiousness___zh-Hans",
+    "path": "/zh-Hans/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/zh-Hans/conscientiousness",
+    "_name": "_71f4c10f"
+  },
+  {
+    "name": "extraversion___zh-Hans",
+    "path": "/zh-Hans/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/zh-Hans/extraversion",
+    "_name": "_65df0190"
+  },
+  {
+    "name": "faq___zh-Hans",
+    "path": "/zh-Hans/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/zh-Hans/faq",
+    "_name": "_269b35d6"
+  },
+  {
+    "name": "neuroticism___zh-Hans",
+    "path": "/zh-Hans/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/zh-Hans/neuroticism",
+    "_name": "_f290d9e0"
+  },
+  {
+    "name": "openness_to_experience___zh-Hans",
+    "path": "/zh-Hans/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/zh-Hans/openness_to_experience",
+    "_name": "_4e67cc00"
+  },
+  {
+    "name": "privacy___zh-Hans",
+    "path": "/zh-Hans/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/zh-Hans/privacy",
+    "_name": "_fb511d70"
+  },
+  {
+    "name": "products___zh-Hans",
+    "path": "/zh-Hans/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/zh-Hans/products",
+    "_name": "_2e3a77d4"
+  },
+  {
+    "name": "result___zh-Hans",
+    "path": "/zh-Hans/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/zh-Hans/result",
+    "_name": "_5cd99bd5"
+  },
+  {
+    "name": "test___zh-Hans",
+    "path": "/zh-Hans/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/zh-Hans/test",
+    "_name": "_35d85002"
+  },
+  {
+    "name": "compare-id___ar",
+    "path": "/ar/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___ar",
+    "path": "/ar/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___da",
+    "path": "/da/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___da",
+    "path": "/da/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___de",
+    "path": "/de/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___de",
+    "path": "/de/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___es",
+    "path": "/es/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___es",
+    "path": "/es/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___fi",
+    "path": "/fi/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___fi",
+    "path": "/fi/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___fr",
+    "path": "/fr/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___fr",
+    "path": "/fr/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___hi",
+    "path": "/hi/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___hi",
+    "path": "/hi/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___id",
+    "path": "/id/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___id",
+    "path": "/id/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___is",
+    "path": "/is/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___is",
+    "path": "/is/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___it",
+    "path": "/it/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___it",
+    "path": "/it/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___ja",
+    "path": "/ja/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___ja",
+    "path": "/ja/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___no",
+    "path": "/no/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___no",
+    "path": "/no/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___pl",
+    "path": "/pl/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___pl",
+    "path": "/pl/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___pt",
+    "path": "/pt/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___pt",
+    "path": "/pt/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___ru",
+    "path": "/ru/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___ru",
+    "path": "/ru/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___sv",
+    "path": "/sv/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___sv",
+    "path": "/sv/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___th",
+    "path": "/th/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___th",
+    "path": "/th/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___uk",
+    "path": "/uk/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___uk",
+    "path": "/uk/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___zh-Hans",
+    "path": "/zh-Hans/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___zh-Hans",
+    "path": "/zh-Hans/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "compare-id___en",
+    "path": "/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id",
+    "_name": "_54a7ca65"
+  },
+  {
+    "name": "result-id___en",
+    "path": "/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id",
+    "_name": "_2f52e106"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\big5\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_c3f128dc"
+  }
+]
